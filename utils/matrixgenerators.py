@@ -15,6 +15,6 @@ def randSymMat(size):
 
 def isPosDef(x):
     """
-    Check if matrix is postive definite.
+    Check if matrix is positive definite.
     """
     return np.all(np.linalg.eigvals(x) > 0)

@@ -1,7 +1,7 @@
 """
 Our example run of pyQuante 1.6.5
 
-Note the resulting orbital energies and molecular orbials are those of the
+Note the resulting orbital energies and molecular orbitals are those of the
 final iteration of the SCF calculation (see ham.out files for the output
 of each iteration)
 """

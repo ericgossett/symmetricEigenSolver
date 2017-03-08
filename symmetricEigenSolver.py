@@ -140,7 +140,7 @@ def householderGeneratorRankKVersion(A):
 def symmetricBandReduction(A, b, store_Q=True):
     """
     Transforms a matrix into a symmetric banded form with
-    width b.  Option: Store Q in order to know the trasformation
+    width b. Option: Store Q in order to know the transformation
     between A and the symmetric banded matrix S.
     """
     n = A.shape[1]

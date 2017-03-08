@@ -1,6 +1,9 @@
 # Symmetric EigenSolver
 A serial version of the symmetric eigensolver Following the works of Auckenthaler et. al.
 
+### Authors
+[Eric Gossett](https://github.com/ericgossett) and [David Hicks](https://github.com/davidjhicks).
+
 ## Requirements
 
 This code run on python 2 and depends on the Numpy, SciPy and Matplotlib packages. The dependencies can be installed via  [PIP](https://pip.pypa.io/en/stable/installing/).

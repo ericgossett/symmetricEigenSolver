@@ -1,9 +1,9 @@
 """
-Example for the water molecule. Here H is the hamiltonian of the final SCF
-interation while A is the canonical transformation matrix. This
+Example for the water molecule. Here H is the Hamiltonian of the final SCF
+iteration while A is the canonical transformation matrix. This
 calculation was run using pyQuante 1.6.5
 
-The resuling eigenvalues refer to the molecular orbital energies while the
+The resulting eigenvalues refer to the molecular orbital energies while the
 eigenvectors are the molecular orbitals.
 
 USEAGE:
